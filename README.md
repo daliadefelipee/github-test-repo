@@ -1,2 +1,2 @@
 # test-repo
-test repo for migration
+test repo for GitHub repository migration
