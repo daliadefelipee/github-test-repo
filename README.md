@@ -1,2 +1,2 @@
 # Github-test-repo
-Test repository for GitHub repository CI/CD pipelines
+Test repository for GitHub CI/CD pipelines
